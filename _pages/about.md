@@ -1,13 +1,18 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "About me"
+title: "个人简介"
+excerpt: "个人简介"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+
+沈典，博士，东南大学计算机科学与工程学院讲师，江苏南京人。2006年本科考入东南大学软件学院，分别于2010年和2012年在软件学院取得学士和硕士学位，于2018年在计算机科学与工程学院获得博士学位，硕士和博士导师均为罗军舟教授，并于2013年参与欧盟第七框架“玛丽居里”人才计划赴英国考文垂大学合作研究。博士毕业后留校工作，加入计算机工程系，在“江苏省网络与信息安全重点实验室”从事教学科研工作，主要研究方向为云计算与数据中心网络。累计在国际期刊和会议上发表论文10余篇，申请国家发明专利多项。本人自本科学习起在九龙湖校区学习和深造已愈13年，对学校和学院感情深厚，目前担任软件学院本科生和研究生（苏州）的班主任。曾担任ACM南京学生分会主席，全国高校云计算应用创新大赛组委会秘书，作为核心成员参与学院和实验室的各项事务工作，包括东南大学云计算中心建设与维护、全国高校云计算应用创新大赛组织、ACM南京分会、ACM SIGCOMM China等学术组织事务、CBD、CSCWD、NDCC等国际会议的组织等。
+
+发表文章
+======
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
