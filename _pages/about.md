@@ -8,48 +8,35 @@ redirect_from:
   - /about.html
 ---
 
+沈典，博士，[东南大学计算机科学与工程学院](http://cse.seu.edu.cn)讲师，江苏南京人。2006年本科考入东南大学软件学院，分别于2010年和2012年在软件学院取得学士和硕士学位，于2018年在计算机科学与工程学院获得博士学位，硕士和博士导师均为罗军舟教授，并于2013年参与欧盟第七框架“玛丽居里”人才计划赴英国考文垂大学合作研究。博士毕业后留校工作，加入计算机工程系，在“江苏省网络与信息安全重点实验室”从事教学科研工作，主要研究方向为云计算与数据中心网络。累计在国际期刊和会议上发表论文10余篇，申请国家发明专利多项。本人自本科学习起在九龙湖校区学习和深造已愈13年，对学校和学院感情深厚，目前担任软件学院本科生和研究生（苏州）的班主任。曾担任ACM南京学生分会主席，全国高校云计算应用创新大赛组委会秘书，作为核心成员参与学院和实验室的各项事务工作，包括东南大学云计算中心建设与维护、全国高校云计算应用创新大赛组织、ACM南京分会、ACM SIGCOMM China等学术组织事务、CBD、CSCWD、NDCC等国际会议的组织等。
 
-沈典，博士，东南大学计算机科学与工程学院讲师，江苏南京人。2006年本科考入东南大学软件学院，分别于2010年和2012年在软件学院取得学士和硕士学位，于2018年在计算机科学与工程学院获得博士学位，硕士和博士导师均为罗军舟教授，并于2013年参与欧盟第七框架“玛丽居里”人才计划赴英国考文垂大学合作研究。博士毕业后留校工作，加入计算机工程系，在“江苏省网络与信息安全重点实验室”从事教学科研工作，主要研究方向为云计算与数据中心网络。累计在国际期刊和会议上发表论文10余篇，申请国家发明专利多项。本人自本科学习起在九龙湖校区学习和深造已愈13年，对学校和学院感情深厚，目前担任软件学院本科生和研究生（苏州）的班主任。曾担任ACM南京学生分会主席，全国高校云计算应用创新大赛组委会秘书，作为核心成员参与学院和实验室的各项事务工作，包括东南大学云计算中心建设与维护、全国高校云计算应用创新大赛组织、ACM南京分会、ACM SIGCOMM China等学术组织事务、CBD、CSCWD、NDCC等国际会议的组织等。
+> 我所在的云计算与大数据研究组隶属于江苏省网络与信息安全重点实验室。团队拥有一批有活力、有朝气、有经验的老师。欢迎希望从事云计算、RDMA网络研究的同学报考我的硕士研究生！（发送个人简历、项目经历和文章列表到我的邮箱dshen@seu.edu.cn）
 
 发表文章
 ======
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+1. **Shen Dian**, Luo Junzhou, Dong Fang, and Zhang Junxue. *VirtCO: Joint Coflow Scheduling and Virtual Machine Placement in Cloud Data Centers* [J]. Tsinghua Science and Technology, 2019, 24(4). (SCI检索)
+1. **Shen Dian**, Luo Junzhou, Dong Fang, et al. *Facilitating Application-aware Bandwidth Allocation in the Cloud with One-step-ahead Traffic Information* [J]. IEEE Transactions on Services Computing, 2019.(CCF B类期刊、SCI检索)
+1. **Shen Dian**, Zhou Pengcheng, Guo Xiaolin, Gao Yidan, Xiong Runqun. *Rendering Differential Performance Preference through Intelligent Network Edge in Cloud Data Centers*[J]. Concurrency and Computation: Practice and Experience, 2017, 29(19). ( CCF C类期刊、SCI、EI检索)
+1. **Shen Dian**, Luo Junzhou, Dong Fang, et al. *AppBag : Application-aware Bandwidth Allocation for Virtual Machines in Cloud Environment* [C]. in Proceedings of the 45th International Conference on Parallel Processing (ICPP’ 16) , Philadelphia, PA, USA, 2016: 21-30. (CCF B类会议、EI检索)
+1. **Shen Dian**, Luo Junzhou, Dong Fang, et al. *Stochastic modeling of dynamic right-sizing for energy-efficiency in cloud data centers*[J]. Future Generation Computer Systems, 2015, 48: 82-95. (CCF C类期刊、SCI、EI检索)
+1. **Shen Dian**, Dong Fang, Zhang Junxue and Luo Junzhou. *Cost-effective Virtual Machine Image Replication Management for Cloud Data Centers*[C]. in Proceedings of the 16th IEEE International Conference on High Performance Computing and Communications(HPCC’ 14), Paris, France, 2014: 229-236. (CCF C类会议、EI检索)
+1. **Shen Dian**, Luo Junzhou, Dong Fang. *Energy-efficient Resource Allocation Model with QoS Assurance for Ubiquitous and Heterogeneous Environment*[C]. in Proceedings of the 7th International Conference on Ubi-Media Computing(U’MEDIA’ 14), Ulaanbaatar, Mongolia, 2014: 37-42. (EI检索)
+1. **Shen Dian**, Dong Fang, Luo Junzhou, et al. *Doing Better Business: Trading a Little Execution Time for High Energy Saving under SLA Constraints*[C]. in Proceedings of IEEE 10th International Conference on e-Business Engineering (ICEBE’ 13), Coventry, UK, 2013: 70-75. (EI检索)
+1. **Shen Dian**, Luo Junzhou, Dong Fang. *Avalanche Computing Through Virtualization: An Improved Virtual Machine Placement Strategy*[C]. in Proceedings of the 2012 IET International Conference on Frontier Computing – Theory, Technologies and Applications(IET’FC’ 12), Xining, China, 2012: 130-135. (EI检索)
+1. Zhang Junxue, Dong Fang, **Shen Dian**, Luo Junzhou. *Game theory based dynamic resource allocation for hybrid environment with cloud and big data application*[C]. in Proceedings of IEEE International Conference on Systems, Man and Cybernetics (SMC’ 14), 2014: 1128-1133. (EI检索)
+1. Dong Fang, Zhang Junxue, Luo Junzhou, **Shen Dian**, et al. *Enabling Application-aware Flexible Graph Partition Mechanism for Parallel Graph Processing Systems*[J]// Concurrency and Computation: Practice and Experience, 2016. ( CCF C类期刊、SCI、EI检索)
+1. Dong Fang, Zhou Pengcheng, Liu Zijian, **Shen Dian***, et al. *Towards a fast and secure design for enterprise‐oriented cloud storage systems*[J]. Concurrency and Computation: Practice and Experience, 2017, 29(19). (通信作者。 CCF C类期刊、SCI、EI检索)
 
-A data-driven personal website
+科研项目
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+1. 欧盟第七框架项目“玛丽居里”计划”Customised Advisory Sustainable Manufacturing Services(FP7-CASES)”项目，2012年1月-2015年12月，主要参与人。
+1. 国家重点研发计划项目：“面向工业互联网的智能云端协作关键技术及系统”(2017YFB1003000)，1816万，2017/9~2021/9，主要参与人；
+1. 国家自然科学基金重大国际(地区)合作项目：“AMS大数据处理关键技术研究”(61320106007)，290万，2014/1~2018/12，主要参与人；
+1. 国家自然科学基金面上项目“面向深度学习应用的边缘计算执行框架与优化机制研究”（61872079），64万（直接经费），2019年1月-2022年12月，主要参与人；
+1. 国家自然科学基金面上项目“云环境下面向大规模图数据处理的资源优化机制研究”(61572129)，2016年1月-2019年12月,主要参与人。
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
+专利申请
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+- 东方，罗军舟，沈典，一种用于云计算环境中防范旁路攻击虚拟机的方法，国家发明专利， 专利号：ZL201210356355.5， 授权公告日：2015.04.15
+- 沈典，东方，罗军舟，周鹏程，一种虚拟化环境下任务类型感知的流队列自适应管理方法，申请号：201910007824.4，申请日：2019.1.4
+- 沈典，东方，罗军舟，王凯，一种数据中心中RDMA应用传输参数自适应选择方法，申请号：201910008291.1，申请日：2019.1.4
