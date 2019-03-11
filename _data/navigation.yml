@@ -1,10 +1,10 @@
 # main links links
 main:
-  - title: "教学工作"
-    url: /teaching/  
-
   - title: "组会讨论"
     url: /year-archive/  
+    
+  - title: "教学工作"
+    url: /teaching/  
     
   - title: "Publications"
     url: /publications/
