@@ -1,13 +1,13 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
-
-  - title: "教学工作"
+  - title: "鏁欏宸ヤ綔"
     url: /teaching/  
 
-  - title: "组会讨论"
+  - title: "缁勪細璁ㄨ"
     url: /year-archive/  
+    
+  - title: "Publications"
+    url: /publications/
     
   - title: "CV"
     url: /cv/
