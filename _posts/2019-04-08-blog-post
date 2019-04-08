@@ -1,0 +1,12 @@
+---
+title: 'RDMA参数选择'
+date: 2019-4-8
+permalink: /posts/2019/04/blog-RDMA-parameters
+tags:
+  - RDMA
+  - 参数选择
+---
+
+关于RDMA参数选择方面的背景问题、现有解决思路、本文解决思路及难点以及实验结果的介绍。
+
+小组讨论会模板下载：[http://dianshenseu.github.io/files/VAS-analysis.pdf](http://dianshenseu.github.io/files/VAS-analysis.pdf)
