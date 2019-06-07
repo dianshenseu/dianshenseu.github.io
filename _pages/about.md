@@ -16,6 +16,7 @@ redirect_from:
 
 发表文章
 ======
+1. **Shen Dian**, Luo Junzhou, Dong Fang, Jin Jiahui, Zhang Junxue and Shen Jun. *Facilitating Application-aware Bandwidth Allocation in the Cloud with One-step-ahead Traffic Information* [J]. IEEE Transactions on Services Computing, 2019. (CCF B类期刊、SCI、EI检索)
 1. **Shen Dian**, Luo Junzhou, Dong Fang, and Zhang Junxue. *VirtCO: Joint Coflow Scheduling and Virtual Machine Placement in Cloud Data Centers* [J]. Tsinghua Science and Technology, 2019, 24(4). (SCI检索)
 1. **Shen Dian**, Zhou Pengcheng, Guo Xiaolin, Gao Yidan, Xiong Runqun. *Rendering Differential Performance Preference through Intelligent Network Edge in Cloud Data Centers*[J]. Concurrency and Computation: Practice and Experience, 2019. ( CCF C类期刊、SCI、EI检索)
 1. **Shen Dian**, Luo Junzhou, Dong Fang, et al. *AppBag : Application-aware Bandwidth Allocation for Virtual Machines in Cloud Environment* [C]. in Proceedings of the 45th International Conference on Parallel Processing (ICPP’ 16) , Philadelphia, PA, USA, 2016: 21-30. (CCF B类会议、EI检索)
