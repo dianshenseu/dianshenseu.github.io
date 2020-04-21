@@ -8,17 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-沈典，博士，[东南大学计算机科学与工程学院](http://cse.seu.edu.cn)讲师，江苏南京人。分别于2010年和2012年在东南大学软件学院取得学士和硕士学位，于2018年在东南大学计算机科学与工程学院获得博士学位，硕士和博士导师均为罗军舟教授。2013年参与欧盟第七框架“玛丽居里”人才计划赴英国考文垂大学合作研究。
+沈典，博士，[东南大学计算机科学与工程学院](http://cse.seu.edu.cn)助理教授，江苏南京人。分别于2010年和2012年在东南大学软件学院取得学士和硕士学位，于2018年在东南大学计算机科学与工程学院获得博士学位，硕士和博士导师均为罗军舟教授。2013年参与欧盟第七框架“玛丽居里”人才计划赴英国考文垂大学合作研究。
 
-博士毕业后留校工作，在“江苏省网络与信息安全重点实验室”从事教学科研工作。主持多项国家级、省部级科研项目，和累计在国际期刊和会议上发表论文10余篇，申请国家发明专利多项。从博士期间起，参加诺贝尔奖得主丁肇中教授领衔的AMS02实验，研发了面向AMS科学大数据应用的云计算资源管理系统。曾担任ACM南京学生分会主席，全国高校云计算应用创新大赛组委会秘书，作为核心成员参与东南大学云计算中心建设与维护、全国高校云计算应用创新大赛组委会、ACM南京分会、ACM SIGCOMM China等学术组织。
+博士毕业后留校工作，在“江苏省网络与信息安全重点实验室”从事教学科研工作。主持多项国家级、省部级科研项目，累计在CCF推荐A/B类会议INFOCOM 、ICPP等国际会议和期刊上发表论文10余篇，申请国家发明专利多项。从博士期间起，参加诺贝尔奖得主丁肇中教授领衔的AMS02实验，研发了面向AMS科学大数据应用的云计算资源管理系统。曾担任ACM南京学生分会主席，全国高校云计算应用创新大赛组委会秘书，作为核心成员参与东南大学云计算中心建设与维护、全国高校云计算应用创新大赛组委会、ACM南京分会、ACM SIGCOMM China等学术组织。
 
 > 我所在的云计算与大数据研究组隶属于江苏省网络与信息安全重点实验室。团队拥有一批有活力、有朝气、有经验的老师。欢迎希望从事云计算、数据中心网络和应用研究的同学报考我的硕士研究生！（发送个人简历、项目经历和文章列表到我的邮箱dshen@seu.edu.cn）
 
 发表文章
 ======
-1. **Shen Dian**, Luo Junzhou, Dong Fang, Jin Jiahui, Zhang Junxue and Shen Jun. *Facilitating Application-aware Bandwidth Allocation in the Cloud with One-step-ahead Traffic Information* [J]. IEEE Transactions on Services Computing, 2019. (CCF B类期刊、SCI、EI检索)
-1. **Shen Dian**, Luo Junzhou, Dong Fang, and Zhang Junxue. *VirtCO: Joint Coflow Scheduling and Virtual Machine Placement in Cloud Data Centers* [J]. Tsinghua Science and Technology, 2019, 24(4). (SCI检索)
-1. **Shen Dian**, Zhou Pengcheng, Guo Xiaolin, Gao Yidan, Xiong Runqun. *Rendering Differential Performance Preference through Intelligent Network Edge in Cloud Data Centers*[J]. Concurrency and Computation: Practice and Experience, 2019. ( CCF C类期刊、SCI、EI检索)
+1. **Shen Dian**, Luo Junzhou, Dong Fang, Guo Xiaolin, Wang Kai and John C.S. Lui. *Distributed and Optimal RDMA Resource Scheduling in Shared Data Center Networks* [J]. IEEE International Conference on Computer Communications (INFOCOM 2020), 2020. (CCF A类会议、EI检索)
+1. **Shen Dian**, Luo Junzhou, Dong Fang, Jin Jiahui, Zhang Junxue and Shen Jun. *Facilitating Application-aware Bandwidth Allocation in the Cloud with One-step-ahead Traffic Information* [J]. IEEE Transactions on Services Computing, 2020, 13(2):381-394. (CCF B类期刊、SCI、EI检索)
+1. **Shen Dian**, Luo Junzhou, Dong Fang, and Zhang Junxue. *VirtCO: Joint Coflow Scheduling and Virtual Machine Placement in Cloud Data Centers* [J]. Tsinghua Science and Technology, 2019, 24(5): 630-644. (SCI检索)
+1. **Shen Dian**, Zhou Pengcheng, Guo Xiaolin, Gao Yidan, Xiong Runqun. *Rendering Differential Performance Preference through Intelligent Network Edge in Cloud Data Centers*[J]. Concurrency and Computation: Practice and Experience, 2019, 31(24). ( CCF C类期刊、SCI、EI检索)
 1. **Shen Dian**, Luo Junzhou, Dong Fang, et al. *AppBag : Application-aware Bandwidth Allocation for Virtual Machines in Cloud Environment* [C]. in Proceedings of the 45th International Conference on Parallel Processing (ICPP’ 16) , Philadelphia, PA, USA, 2016: 21-30. (CCF B类会议、EI检索)
 1. **Shen Dian**, Luo Junzhou, Dong Fang, et al. *Stochastic modeling of dynamic right-sizing for energy-efficiency in cloud data centers*[J]. Future Generation Computer Systems, 2015, 48: 82-95. (CCF C类期刊、SCI、EI检索)
 1. **Shen Dian**, Dong Fang, Zhang Junxue and Luo Junzhou. *Cost-effective Virtual Machine Image Replication Management for Cloud Data Centers*[C]. in Proceedings of the 16th IEEE International Conference on High Performance Computing and Communications(HPCC’ 14), Paris, France, 2014: 229-236. (CCF C类会议、EI检索)
